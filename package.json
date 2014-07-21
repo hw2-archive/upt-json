@@ -1,0 +1,54 @@
+{
+  "name": "upt-json",
+  "version": "0.4.0",
+  "description": "Read upt.json files with semantics, normalisation, defaults and validation.",
+  "author": {
+    "name": "Twitter"
+  },
+  "licenses": [
+    {
+      "type": "GPL3",
+      "url": "https://github.com/hyperweb2/upt-json/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hyperweb2/upt-json.git"
+  },
+  "main": "lib/json",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "deep-extend": "~0.2.5",
+    "graceful-fs": "~2.0.0",
+    "intersect": "~0.0.3"
+  },
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.12.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-simple-mocha": "~0.4.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "bugs": {
+    "url": "https://github.com/hyperweb2/upt-json/issues"
+  },
+  "dist": {
+    "shasum": "a99c3ccf416ef0590ed0ded252c760f1c6d93766",
+    "tarball": "http://registry.npmjs.org/upt-json/-/upt-json-0.4.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "satazor",
+      "email": "andremiguelcruz@msn.com"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/hyperweb2/upt-json"
+}
