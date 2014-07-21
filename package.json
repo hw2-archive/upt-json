@@ -42,12 +42,6 @@
     "shasum": "a99c3ccf416ef0590ed0ded252c760f1c6d93766",
     "tarball": "http://registry.npmjs.org/upt-json/-/upt-json-0.4.0.tgz"
   },
-  "maintainers": [
-    {
-      "name": "satazor",
-      "email": "andremiguelcruz@msn.com"
-    }
-  ],
   "directories": {},
   "readme": "ERROR: No README data found!",
   "homepage": "https://github.com/hyperweb2/upt-json"
