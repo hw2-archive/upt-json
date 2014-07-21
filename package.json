@@ -43,6 +43,6 @@
     "tarball": "http://registry.npmjs.org/upt-json/-/upt-json-0.4.0.tgz"
   },
   "directories": {},
-  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
   "homepage": "https://github.com/hyperweb2/upt-json"
 }
